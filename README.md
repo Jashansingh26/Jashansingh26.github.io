@@ -12,6 +12,6 @@ It is my favourite outdoor sport. Whenever i play badminton, it gives me natural
 **12 CLASS MARKS**
 
 | SUBJECTS | MARKS |
-| PHYSICS | ----------- |
+| -        | ----------- |
 | Header | Title |
 | Paragraph | Text |
