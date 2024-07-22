@@ -16,3 +16,8 @@ It is my favourite outdoor sport. Whenever i play badminton, it gives me natural
 | Physics | 96 |
 | Chemistry | 99 |
 | Maths | 100 |
+| English | 100 |
+| Punjabi | 94 |
+
+
+
