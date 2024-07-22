@@ -22,5 +22,6 @@ Here is my marks wise result.
 | English | 100 |
 | Punjabi | 94 |
 
-[ACTIVITY REPORT]
+[ACTIVITY REPORT](https://jashansingh26.github.io/Jashansingh2610.github.io/)
+
 
