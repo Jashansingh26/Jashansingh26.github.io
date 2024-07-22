@@ -22,6 +22,6 @@ Here is my marks wise result.
 | English | 100 |
 | Punjabi | 94 |
 
-[ACTIVITY REPORT](https://jashansingh26.github.io/Jashansingh2610.github.io/)
+[ACTIVITY REPORT OF INDUCTION PROGRAM 2024](https://jashansingh26.github.io/Jashansingh2610.github.io/)
 
 
