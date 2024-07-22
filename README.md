@@ -22,5 +22,5 @@ Here is my marks wise result.
 | English | 100 |
 | Punjabi | 94 |
 
-
+[ACTIVITY REPORT]
 
