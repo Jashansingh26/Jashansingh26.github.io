@@ -8,3 +8,8 @@ My name is Jashanpreet Singh.I am eighteen years old.I have completed my 12 clas
 
 I like to play Badminton as a sport.
 It is my favourite outdoor sport. Whenever i play badminton, it gives me natural happiness and satisfaction.
+
+**12 CLASS MARKS**
+
+|**SUBJECT**|**MARKS**|
+|Physics|96|
