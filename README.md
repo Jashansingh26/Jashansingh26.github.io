@@ -11,6 +11,9 @@ It is my favourite outdoor sport. Whenever i play badminton, it gives me natural
 
 **12 CLASS MARKS**
 
+I scored 97.80 marks in 12 class.
+Here is my marks wise result.
+
 | SUBJECTS | MARKS |
 |--------|------|
 | Physics | 96 |
