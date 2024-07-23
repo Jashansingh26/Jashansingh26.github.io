@@ -23,7 +23,7 @@ Here is my marks wise result.*
 | English | 100 |
 | Punjabi | 94 |
 
-[ACTIVITY REPORT OF INDUCTION PROGRAM 2024](https://jashansingh26.github.io/Jashansingh2610.github.io/)
+# [ACTIVITY REPORT OF INDUCTION PROGRAM 2024](https://jashansingh26.github.io/Jashansingh2610.github.io/)
 
 # MY EXCEL COURSE CERTIFICATE📃
 ![IMG_20240723_211218](https://github.com/user-attachments/assets/fe48b132-b429-4212-8d34-1bb56c37df01)
