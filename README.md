@@ -8,7 +8,7 @@
 
 # **HOBBIES**🏸⚽🏏
 
-*I like to play Badminton as a sport.It is my favourite outdoor sport. Whenever i play badminton, it gives me natural happiness and satisfaction.*
+*I like to play Badminton as a sport.It is my favourite outdoor sport. Playing badminton is an excellent exercise for the body. It also strengthns muscles and enhances reflexes and provides flexibility to the body .*
 
 # **12 CLASS MARKS**✍️
 
